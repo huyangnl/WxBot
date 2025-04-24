@@ -1,7 +1,7 @@
 # WxBot 支持微信4.0版本的自动化工具
 一款适配微信4.0版本的自动化工具，支持定时监控和各种自动化运营功能。
-Wxbot最新版直链下载：最新版
-Wxbot最新版网盘下载：123pan
+Wxbot最新版直链下载：[官网](https://www.vidibot.com)
+Wxbot最新版网盘下载：[123pan](https://www.123684.com/s/WmdfTd-YrMU3)
 
 2025年4月
 WxBot（V1.0.1）
